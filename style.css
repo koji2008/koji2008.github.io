@@ -1,0 +1,49 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+    font-weight: bold;
+    }
+    h1{
+        color: rgb(243, 181, 12);
+        font-size: 40px;
+        
+    }
+    
+    ul li{
+    display: inline-block;
+    padding: 1% 50px;
+    font-size: 20px;
+    }
+    
+    a{
+        color: rgba(255, 180, 17, 0.836);
+        
+        text-decoration: none;
+        font-size: 25px;
+    }
+    a:hover{
+    color: rgb(255, 153, 0);
+    
+    }
+    p{
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.938);
+    }
+    body{
+        background-color: #73c268;
+        
+    }
+    
+    
+    
+    
+    
+    
+    h3{ 
+        font-size: 35px;
+    }
+    
